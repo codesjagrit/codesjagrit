@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🎓 First-year B.Tech student in Computer Science & AI at Newton School of Technology, Rishihood University.<br>- 💻 Passionate about programming, technology, and software development.<br>- 🐍 Currently strengthening my Python and problem-solving skills.<br>- 🚀 Exploring frontend development and building projects.<br>- 🧠 Believe in learning by building, experimenting, and improving every day.
+- 🎓 First-year B.Tech student in Computer Science & AI at Newton School of Technology.<br>- 💻 Passionate about programming, technology, and software development.<br>- 🐍 Currently strengthening my Python and problem-solving skills.<br>- 🚀 Exploring frontend development and building projects.<br>- 🧠 Believe in learning by building, experimenting, and improving every day.
 
 
 ## 🌐 Socials:
