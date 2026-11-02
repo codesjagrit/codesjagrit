@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🎓 First-year B.Tech student in Computer Science & AI at Newton School of Technology.<br>- 💻 Passionate about programming, technology, and software development.<br>- 🐍 Currently strengthening my Python and problem-solving skills.<br>- 🚀 Exploring frontend development and building projects.<br>- 🧠 Believe in learning by building, experimenting, and improving every day.
+- 🎓 First-year B.Tech student in Computer Science & AI at Newton School of Technology, Rishihood University.<br>- 💻 Passionate about programming, technology, and software development.<br>- 🐍 Currently strengthening my Python and problem-solving skills.<br>- 🚀 Exploring frontend development and building projects.<br>- 🧠 Believe in learning by building, experimenting, and improving every day.
 
 
 ## 🌐 Socials:
@@ -18,4 +18,4 @@
 ---
 [![](https://komarev.com/ghpvc/?username=codesjagrit&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
